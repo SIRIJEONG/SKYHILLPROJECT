@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EleDoor
+  - Clickable
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Building
+    uniqueID: 4238668795
+    locked: 0
+  - name: BackGround
+    uniqueID: 2213076277
+    locked: 0
+  - name: BackStair
+    uniqueID: 3279242925
+    locked: 0
+  - name: FrontStair
+    uniqueID: 4140157897
+    locked: 0
+  - name: Clickable
+    uniqueID: 2083577771
+    locked: 0
+  - name: DarkUI
+    uniqueID: 1454688229
     locked: 0
